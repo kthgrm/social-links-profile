@@ -66,3 +66,8 @@ body{
     height: 3rem;
     border-radius: .5rem;
 }
+
+.container ul li:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+}
